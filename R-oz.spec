@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.20
-Release:          1
+Release:          2
 Summary:          Plot the Australian coastline and states
 Group:            Sciences/Mathematics
 License:          GPL-2
